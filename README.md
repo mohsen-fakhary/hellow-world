@@ -2,7 +2,6 @@
 just starting with github
 
 **This is a BOLD line**
-</p>
 
 *This one is italic*
 
